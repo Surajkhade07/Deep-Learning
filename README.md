@@ -1,4 +1,5 @@
-**🧠 Deep Learning Practice Repository)**
+**🧠 Deep Learning Practice Repository**
+
 This repository contains my deep learning experiments, model architectures, and learning notes.
 It focuses on neural network fundamentals, advanced architectures, and hands-on model training.
 
