@@ -1,22 +1,19 @@
-**🧠 Deep Learning Practice Repository
-**
+**🧠 Deep Learning Practice Repository)**
 This repository contains my deep learning experiments, model architectures, and learning notes.
 It focuses on neural network fundamentals, advanced architectures, and hands-on model training.
 
-**🚀 What’s Inside
-**
+**🚀 What’s Inside**
+
 Data Preparation: Normalization, augmentation, custom dataset loaders
 
-**Neural Networks:
-**
+**Neural Networks:**
 -ANN (Basic Dense networks)
 
 -CNN (Image classification)
 
 -RNN, LSTM, GRU (Sequence models)
 
-**Advanced Architectures:
-**
+**Advanced Architectures:**
 -Autoencoders
 
 -GANs
